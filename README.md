@@ -1,4 +1,4 @@
-# Project 2 : Traffic Sign Classifier 
+# Project 4 : Advanced Lane Finding 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 The second  assignement project  in Term 1 for submission. 
@@ -6,16 +6,17 @@ The second  assignement project  in Term 1 for submission.
 
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
-Applying deep neural networks and convolutional neural networks to classify traffic signs. Specifically to train a model to classify traffic signs.Specifically, you'll train a model to classify traffic signs from the German Traffic Sign Dataset
+In this project, your goal is to write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in 
+<https://github.com/udacity/CarND-Advanced-Lane-Lines>
 
 ## Submission Requirment :
- 1.The Traffic_Sign_Classifier.ipynb notebook file with all questions answered and all code cells executed and displaying output.
+ 1.Writeup
  
- 2.An HTML or PDF export of the project notebook with the name report.html or report.pdf.
+ 2.Code (or a Jupyter notebook)
  
- 3 Any additional datasets or images used for the project that are not from the German Traffic Sign Dataset. 
+ 3.Example output images. 
  
- 4.Your writeup report as a markdown or pdf file
+ 4.Output Video.
  
  ### Acceptance Criteria :
  <https://review.udacity.com/#!/rubrics/322/view>
