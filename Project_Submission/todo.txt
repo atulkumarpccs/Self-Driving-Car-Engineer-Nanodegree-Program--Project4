@@ -1,1 +1,1 @@
-remove the temaplate file & clean the repository.
+remove the temaplate file & clean the repository. Coorect the image path.
