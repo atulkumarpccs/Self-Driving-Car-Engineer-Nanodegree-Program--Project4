@@ -38,7 +38,7 @@ pip install tensorflow-gpu
 3. Open the Anaconda Command Prompt.
    example C:\Users\Atul\Anaconda3>
   
-4. Run command >>activate carnd-term
+4. Run command >>activate carnd-term1
 
 5. Go to the project_submission directory
 
@@ -82,10 +82,8 @@ Complete the Setup instructions.
  ```sh
  1.Set up is not done for personal Linux environment.
  
- 2.Set up is not done for personal windows 10 machine.
+ 2.Some of package for python are installed manually.
  
- 3.Some of package for python are installed manually.
- 
- 4. AWS setup is not working as per support project so done locally.
+ 3. AWS setup is not working as per support project so done locally.
  ```
  
