@@ -3,8 +3,8 @@
 
 Overview
 ---
-In this project, you will use what you've learned about deep neural networks and convolutional neural networks to classify traffic signs.Specifically, you'll train a model to classify traffic signs  using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
- 
+In this project, your goal is to write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in 
+<https://github.com/udacity/CarND-Advanced-Lane-Lines>
 
 ---
 
@@ -127,4 +127,4 @@ Please find [link for the video result](./project_video.mp4)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-I would try to extend on the real camera calibaration & then tarin in future to make it real issues during projects & would explore other techinques for better result & compex use case.  
+I would try to extend on the real camera calibaration & then tarin in future to make it real issues during projects & would explore other techinques for better result & complex use case.  
