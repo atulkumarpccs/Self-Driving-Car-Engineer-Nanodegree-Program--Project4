@@ -45,13 +45,22 @@ Complete the Setup instructions.
  ```sh
  1.All steps are based on windows 10 environement.
  
- 2.Acivate the environement set in first projects ``activate carnd-term1``
+ 2.Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
  
- 3.Clone the project from github >>``git clone https://github.com/atulkumarpccs/Self-Driving-Car-Engineer-Nanodegree-Program--Project2 `` 
+ 3.Apply a distortion correction to raw images.
  
- 4.Go to the submission folder/directory >>..Project_Submission
-  
- 5.Run the command from anaconda command promt>>``jupyter notebook Traffic_Sign_Classifier.ipynb``
+ 4.Use color transforms, gradients, etc., to create a thresholded binary image.
+ 
+ 5.Apply a perspective transform to rectify binary image ("birds-eye view").
+ 
+ 6.Detect lane pixels and fit to find the lane boundary.
+ 
+ 7.Determine the curvature of the lane and vehicle position with respect to center.
+ 
+ 8.Warp the detected lane boundaries back onto the original image.
+ 
+ 9.Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+ 
  ```  
    
  ### Known Issues :
