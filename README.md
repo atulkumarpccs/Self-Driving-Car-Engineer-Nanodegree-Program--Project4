@@ -22,17 +22,32 @@ In this project, your goal is to write a software pipeline to identify the lane 
  <https://review.udacity.com/#!/rubrics/322/view>
  
  ### Setup Environmet :
- 1.Set up `Starter Kit Installation`
+ 1. Set up `Starter Kit Installation`
  
    setup by using Anaconda
    <https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md>
    
- 2.TensorFlow
+ 2. TensorFlow
 If you have access to a GPU, you should follow the TensorFlow instructions for installing TensorFlow with GPU support.
 
 Once you've installed all of the necessary dependencies, you can install the tensorflow-gpu package:
 ```sh
 pip install tensorflow-gpu
+```
+ ```sh
+3. Open the Anaconda Command Prompt.
+   example C:\Users\Atul\Anaconda3>
+  
+4. Run command >>activate carnd-term
+
+5. Go to the project_submission directory
+
+6. Run >>jupyter notebook P4.ipynb
+
+7. Run shell one by one 
+
+8. Output video take time wait :)
+
 ```
 
 Amazon Web Services
