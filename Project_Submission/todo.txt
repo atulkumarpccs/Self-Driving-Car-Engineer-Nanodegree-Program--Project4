@@ -1,3 +1,0 @@
-remove the temaplate file & clean the repository. Coorect the image path.
-
-//add the video & remove the link
