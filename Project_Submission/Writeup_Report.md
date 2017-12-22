@@ -326,7 +326,7 @@ def locate_lines(binary_warped, nwindows = 9, margin = 100, minpix = 50):
 
 We can draw a circle that closely fits nearby points on a local section of a curve, as follows.
 
-<img src="output_images/radius_curvature1.png" />
+<img src="/output_images/radius_curvature1.png" />
 
 We say the curve and the circle osculate (which means "to kiss"), since the 2 curves have the same tangent and curvature at the point where they meet.
 
