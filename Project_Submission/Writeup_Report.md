@@ -92,7 +92,7 @@ def undistort_image(img, mtx, dist):
     return cv2.undistort(img, mtx, dist, None, mtx)
 ```
 
-<img src="output_images/udistort_image.png" />
+<img src="/output_images/udistort_image.png" />
 
 
 #### 2. Describing how (and identify where in your code) you used>> color transforms, gradients or other methods to create a thresholded binary image. Provide an example of a binary image result.
@@ -228,7 +228,7 @@ def transform_image(img, nx, ny):
     return warped, M
 ```
 
-<img src="output_images/transform_image.png" />
+<img src="/output_images/transform_image.png" />
 
 
 
@@ -320,7 +320,7 @@ def locate_lines(binary_warped, nwindows = 9, margin = 100, minpix = 50):
 
 ```
 
-<img src="output_images/poly_fit.png" />
+<img src="/output_images/poly_fit.png" />
 
 #### 5. Describing how (and identify where in your code) you calculated >> the radius of curvature of the lane and the position of the vehicle with respect to center.
 
@@ -334,7 +334,7 @@ The radius of curvature of the curve at a particular point is defined as the rad
 
 The radius of curvature at any point x of the function x=f(y) is given as follows:
 
-<img src="output_images/radius_cur.png" />
+<img src="/output_images/radius_cur.png" />
 
 ```sh
 def radius_curvature(binary_warped, left_fit, right_fit):
