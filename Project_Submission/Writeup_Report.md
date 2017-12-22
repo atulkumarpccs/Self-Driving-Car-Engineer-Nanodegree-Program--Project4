@@ -79,7 +79,7 @@ if ret == True:
 ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(objpoints, imgpoints, gray.shape[::-1], None, None)
 ```
 
-<img src="output_images/Download1.png" />
+<img src="/output_images/download1.png" />
 
 
 
@@ -195,7 +195,7 @@ def combined_s_gradient_thresholds(img, show=False):
     return combined_binary
 ```
 
-<img src="output_images/gradient_color_threshold.png" />
+<img src="/output_images/gradient_color_threshold.png" />
 
 #### 3. Describing how (and identify where in your code) you performed>> a perspective transform and provide an example of a transformed image.
 
@@ -379,7 +379,7 @@ Please find the final image here
 <img src="/output_images/downlaod10.png" />
 
 
-![alt text][image6]
+
 
 ---
 
