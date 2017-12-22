@@ -376,7 +376,7 @@ def radius_curvature(binary_warped, left_fit, right_fit):
 
 Please find the final image here 
 
-<img src="/output_images/downlaod10.png" />
+<img src="/output_images/download10.png" />
 
 
 
@@ -387,7 +387,7 @@ Please find the final image here
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Please find [link for the video result]
+Please find below link for the video result
 
 <https://github.com/atulkumarpccs/Self-Driving-Car-Engineer-Nanodegree-Program--Project4/blob/master/Project_Submission/project_video.mp4>
 
