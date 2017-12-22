@@ -79,7 +79,7 @@ if ret == True:
 ret, mtx, dist, rvecs, tvecs = cv2.calibrateCamera(objpoints, imgpoints, gray.shape[::-1], None, None)
 ```
 
-<img src="output_images/camera_calib_undistort.png" />
+<img src="output_images/Download1.png" />
 
 
 
