@@ -376,7 +376,7 @@ def radius_curvature(binary_warped, left_fit, right_fit):
 
 Please find the final image here 
 
-<img src="output_images/final_image.png" />
+<img src="/output_images/downlaod10.png" />
 
 
 ![alt text][image6]
