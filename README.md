@@ -1,7 +1,7 @@
 # Project 4 : Advanced Lane Finding 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-The second  assignement project  in Term 1 for submission. 
+The fourth  assignement project  in Term 1 for submission. 
 
 
 [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
