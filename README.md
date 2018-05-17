@@ -88,7 +88,6 @@ Complete the Setup instructions.
  ```
  
   ### From Git to Github :
- ```sh
  
  1. Cloning the repository by using command ```git clone Self-Driving-Car-Engineer-Nanodegree-Program--Project3 ```.
  
@@ -102,4 +101,4 @@ Complete the Setup instructions.
  
  6. Push your code by ```git push origin master```
  
-```
+
